@@ -1,1 +1,3 @@
 # camel-microservice-b
+
+Receiver
